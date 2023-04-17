@@ -1,0 +1,27 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1681673406,
+        "narHash": "sha256-kKAvNPjjwLEhGlzFP/Ma5tfEOV0yiCYqUsSovYvTH7c=",
+        "owner": "olafklingt",
+        "repo": "nixpkgs",
+        "rev": "9078db4bddf7677b4738b00280b33744c52bea8a",
+        "type": "github"
+      },
+      "original": {
+        "owner": "olafklingt",
+        "ref": "faust2sc_exp",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
